@@ -1,5 +1,5 @@
 {
-    "name": "sismic/FOSPommOAuthServerBundle",
+    "name": "sismic/fos-pomm-oauth-server-bundle",
     "type": "symfony-bundle",
     "description": "Fork from FOS working with Pomm",
     "keywords": ["oauth", "oauth2", "server"],
